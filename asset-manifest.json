@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ekzam_react/static/css/main.2f32d235.chunk.css",
+    "main.js": "/ekzam_react/static/js/main.3a2299c7.chunk.js",
+    "main.js.map": "/ekzam_react/static/js/main.3a2299c7.chunk.js.map",
+    "runtime~main.js": "/ekzam_react/static/js/runtime~main.bb0f482e.js",
+    "runtime~main.js.map": "/ekzam_react/static/js/runtime~main.bb0f482e.js.map",
+    "static/js/2.ccb108a6.chunk.js": "/ekzam_react/static/js/2.ccb108a6.chunk.js",
+    "static/js/2.ccb108a6.chunk.js.map": "/ekzam_react/static/js/2.ccb108a6.chunk.js.map",
+    "index.html": "/ekzam_react/index.html",
+    "precache-manifest.b52d8bf2b573ccb3253060417c0be191.js": "/ekzam_react/precache-manifest.b52d8bf2b573ccb3253060417c0be191.js",
+    "service-worker.js": "/ekzam_react/service-worker.js",
+    "static/css/main.2f32d235.chunk.css.map": "/ekzam_react/static/css/main.2f32d235.chunk.css.map"
+  }
+}
